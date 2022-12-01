@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="/~o,REQj%_CC|Ma(;!VH" x="26" y="-218"><statement name="HANDLER"><block type="playMelody" id="Cp=_on6b(xdbX!01#CQu"><value name="melody"><shadow type="melody_editor" id="%*NCl$zwDb/:fz0%X^F+"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="9TS]I`dGR%;Z9R:{yCP1"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value><next><block type="device_show_leds" id=".-jssLh;,cRm|nH$y+[k"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="device_forever" id="m0(o8.^g$oWgzSOB4/jn" x="298" y="-197"></block><block type="device_gesture_event" id="XED(Sxp!{g[A@!N8!lHf" x="550" y="9"><field name="NAME">Gesture.Shake</field></block></xml>
